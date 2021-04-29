@@ -1,0 +1,12 @@
+ <script src="/vendor/assets/js/js/jquery-3.3.1.min.js"></script>
+    <script src="/vendor/assets/js/js/popper.min.js"></script>
+    <script src="/vendor/assets/js/js/bootstrap.min.js"></script>
+    <script src="/vendor/assets/js/js/jquery.easing.min.js"></script>
+    <script src="/vendor/assets/js/js/wow.js"></script>
+    <script src="/vendor/assets/js/js/venobox.min.js"></script>
+    <script src="/vendor/assets/js/js/SmoothScroll.js"></script>
+    <script src="/vendor/assets/js/js/jquery.filterizr.min.js"></script>
+    <script src="/vendor/assets/js/js/venobox.min.js"></script>
+    <script src="/vendor/assets/mail/js/form-validator.min.js"></script>
+    <script src="/vendor/assets/mail/js/contact-form-script.js"></script>
+    <script src="/vendor/assets/js/js/script.js"></script>
