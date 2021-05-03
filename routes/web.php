@@ -45,4 +45,9 @@ Route::get('/paymentConfirm', 'paymentConfirmController@index')->name('paymentCo
 Route::get('/profile_online', 'profile_onlineController@index')->name('profile_online');
 
 
+Route::get('/resetpassword', 'ResetpasswordController@index')->name('resetpassword');
+
+
+Route::get('/error', 'ErrorController@index')->name('error');
+
 
