@@ -51,14 +51,7 @@
                 <img src="./vendor/assets/img/dummy10.jpg" class="d-block w-100" alt="...">
               </div>
             </div>
-            <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
-              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-              <span class="sr-only">Previous</span>
-            </a>
-            <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
-              <span class="carousel-control-next-icon" aria-hidden="true"></span>
-              <span class="sr-only">Next</span>
-            </a>
+        
           </div>
 
         </div>
@@ -111,14 +104,20 @@
           </div>
         </div>
       </div>
-      <div class="product-info-tabs">
+
+      <div class="row " style="position: relative;">
+      
+
+     
+      
+        <div class="col-6 col-md-8 col-sm-4">
+        
+           <div class="product-info-tabs" style="width: 700px; margin-left:80px; ">
         <ul class="nav nav-tabs" id="myTab" role="tablist">
         <li class="nav-item">
           <a class="nav-link active" id="description-tab" data-toggle="tab" href="#description" role="tab" aria-controls="description" aria-selected="true">Deskripsi Produk</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" id="review-tab" data-toggle="tab" href="#review" role="tab" aria-controls="review" aria-selected="false">Detail Penjual</a>
-        </li>
+        
     </ul>
     <div class="tab-content" id="myTabContent">
         <div class="tab-pane fade show active" id="description" role="tabpanel" aria-labelledby="description-tab">
@@ -151,72 +150,23 @@
           AREA JAWA BARAT MELIPUTI:
           Bandung, Bekasi, Bogor, Ciamis, Cianjur, Cirebon, Garut, Indramayu, Karawang, Kuningan, Majalengka, Pangandaran, Purwakarta, Subang, Sukabumi, Sumedang, Tasikmalaya, Cimahi, Depok.
         </div>
-        <div class="tab-pane fade" id="review" role="tabpanel" aria-labelledby="review-tab" style=" font-size: 20px;">
-          <div class="contt">
-          <img src="assets/images/penjuals.jpg" style="width: 130px; height: 115px;" alt="penjuals">
-
-          </div>
-          <div class="dett" style="display: flex; position: relative; top: -50px; left: 140px;">
-   <p class="mb-20 " style="margin-left: 50px;"><i class="fas fa-user-circle" > Ichsan Dwi Himawan</i></p>
-
-               <p class="mb-20 " style="margin-left: 50px;"><i class="fas fa-user-circle" > <a href="#" id="demo">Lihat Nomor Telepon</a></i></p>
-
-               
-               <p class="mb-20 " style="margin-left: 50px;"><i class="fas fa-inbox " > <a href="#" id="oke">Lihat Email</a></i></p>
-          </div>
-       
-
-                       <p style="padding-left: 30px; margin-top: 30px;">Diposting: 29/12/2020       <i class="fas fa-eye" style="padding-left: 30px;"> Dilihat 112</i> <i class="fas fa-map-marker-alt" style="color: red; padding-left: 30px;"> Banten</i></p>
-
-                        <h2 style="color: grey; font-size: 14px;">ADS SERUPA</h2>
-                       <hr />
-
-                    <div class="content" style="display: flex; padding-left: 5px;">
-                <div class="row">
-  <img src="assets/images/ads1.jpg" width="93" height="53" alt="adsense">
-                      <a href="" style="color: gray; font-size: 14px; padding-left: 30px;">WHEEL LOADER KH, MURAH-BERKUALITAS <br>      <span style="background-color: #FCC61C; font-size: 12px; font-weight: 700; line-height: 13px;">Rp.380.000.000 Nego</span>
-                        <br>
-</a>
-                </div>                       
-                    
-
-                    <div class="row" style="margin-left: 30px;">
-  <img src="assets/images/ads1.jpg" width="93" height="53" alt="adsense">
-                      <a href="" style="color: gray; font-size: 14px; padding-left: 30px;">WHEEL LOADER KH, MURAH-BERKUALITAS <br>      <span style="background-color: #FCC61C; font-size: 12px; font-weight: 700; line-height: 13px;">Rp.380.000.000 Nego</span>
-                        <br>
-</a>
-                </div>   
-                
-                
-                    
-                    </div>
-
-
-                      <div class="content" style="display: flex; margin-top: 50px; padding-left: 5px;">
-                <div class="row">
-  <img src="assets/images/ads1.jpg" width="93" height="53" alt="adsense">
-                      <a href="" style="color: gray; font-size: 14px; padding-left: 30px;">WHEEL LOADER KH, MURAH-BERKUALITAS <br>      <span style="background-color: #FCC61C; font-size: 12px; font-weight: 700; line-height: 13px;">Rp.380.000.000 Nego</span>
-                        <br>
-</a>
-                </div>                       
-                    
-
-                    <div class="row" style="margin-left: 30px;">
-  <img src="assets/images/ads1.jpg" width="93" height="53" alt="adsense">
-                      <a href="" style="color: gray; font-size: 14px; padding-left: 30px;">WHEEL LOADER KH, MURAH-BERKUALITAS <br>      <span style="background-color: #FCC61C; font-size: 12px; font-weight: 700; line-height: 13px;">Rp.380.000.000 Nego</span>
-                        <br>
-</a>
-                </div>   
-                
-                
-                    
-                    </div>
-
-
-        </div>
 
         
+        
+        
     </div>
+            
+    
+        </div>
+
+
+        <div class="col-6" style="position: relative; right: -1000px; bottom: 1000px;">
+
+            <p style="font-size: 20px;">Hello</p>
+        </div>
+      </div>
+   
+     
   </div>
   
 </div>

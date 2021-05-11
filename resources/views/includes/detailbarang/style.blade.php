@@ -177,6 +177,25 @@
 	line-height: 16px;
 	font-size: 15px;
 }
+
+
+
+ .carousel-inner {
+	margin-left: -10px;
+}
+
+@media only screen and (max-width: 576px) {
+	.product-dtl {
+		margin-left: 80px;
+	}
+
+	 .carousel-inner {
+		margin-left: 50px;
+		width: 100%;
+	}
+
+	
+}
 .form-control:focus {
 	outline: none;
 	box-shadow: none;
@@ -222,6 +241,16 @@
 	text-decoration: none;
 }
 
+.nav-tabs {
+	width: 97%;
+}
+
+
+.tab-content {
+	margin-left:10px;
+}
+
+
 .product-info-tabs {
 	margin-top: 25px; 
 }
@@ -252,6 +281,8 @@
 	line-height: 24px;
 	color: #7a7a7a;
 }
+
+
 .review-form .form-group {
 	clear: both;
 }
