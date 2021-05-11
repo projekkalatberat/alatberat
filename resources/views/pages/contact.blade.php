@@ -55,6 +55,25 @@
                   placeholder="Email anda..."
                 />
               </div>
+
+                <div class="form-group">
+                <label for="select">Select Email Subject</label>
+
+                <select name="select" id="select" class="form-control">
+    <option value="Please Select Email Subject">Please Select Email Subject</option>
+    <option value="Advertise">Advertise</option>
+    <option value="Umum">Umum</option>
+    <option value="Lainnya">Lainnya</option>
+    <option value="Masalah Sistem">Masalah Sistem (Login,Akun, dll)
+    </option>
+
+    <option value="Website">Website(Fitur,Design,Dll)</option>
+
+
+  </select>
+                
+                    
+              </div>
               <div class="form-group">
                 <label for="exampleFormControlTextarea1">Isi pesan</label>
                 <textarea
