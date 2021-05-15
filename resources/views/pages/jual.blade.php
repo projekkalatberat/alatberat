@@ -12,16 +12,17 @@
  <!-- Jumbotron -->
    <div class="container fitur" >
         <div class="row">
-            <div class="col-md-6 col-sm-6">
+
+        <div class="col-md-4 col-sm-4">
                 <div class="pricing-table">
                     <div class="pricing-header ">
-                        <h3>Standard</h3>
+                        <h3>Free</h34>
                     </div>
 
                     <div class="pricingContent">
                         <div class="price-value">
-                            <span class="amount">Rp 500 Ribu</span>
-                            <span class="time">Only 1 Ad Post</span>
+                            <span class="amount">Rp 0</span>
+                           
                         </div>
                         <ul>
                             <li>Posting iklan : 1x Posting </li>
@@ -35,8 +36,31 @@
                     </div>
                 </div>
             </div>
+            <div class="col-md-4 col-sm-4">
+                <div class="pricing-table">
+                    <div class="pricing-header ">
+                        <h3>Standard</h3>
+                    </div>
 
-            <div class="col-md-6 col-sm-6">
+                    <div class="pricingContent">
+                        <div class="price-value">
+                            <span class="amount">Rp 500 Ribu</span>
+                            <span class="time">Only 2 Ad Post</span>
+                        </div>
+                        <ul>
+                            <li>Posting iklan : 2x Posting </li>
+                            <li>Photo di iklan : 4 Photos/ad</li>
+                            <li>Grafik Iklan Mingguan ke email : Yes</li>
+                            <li>Tambahkan Grafik Iklan di Akun Profil : No</li>
+                        </ul>
+                        <div class="pricingTable-Sign-Up">
+                            <a href="{{route('createad1')}}">Buat Iklan</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4 col-sm-4">
                 <div class="pricing-table blue">
                     <div class="pricing-header">
                         <h3>Premium</h3>
